@@ -1,6 +1,6 @@
 # vue-eslint-template-2026
 
-This template should help get you started developing with Vue 3 in Vite.
+This template uses ESLint with custom `vue/block-order` rules to enforce a specific order of blocks in Vue single-file components, ensuring `<script>` and `<template>` come before `<style>`.
 
 ## Recommended IDE Setup
 
